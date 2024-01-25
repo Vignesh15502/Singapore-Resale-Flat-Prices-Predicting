@@ -6,3 +6,10 @@ The objective of this project is to develop a machine learning model and deploy 
 
 ## Motivation:
 The resale flat market in Singapore is highly competitive, and it can be challenging to accurately estimate the resale value of a flat. There are many factors that can affect resale prices, such as location, flat type, floor area, and lease duration. A predictive model can help to overcome these challenges by providing users with an estimated resale price based on these factors.
+
+
+NAME : VIGNESH P
+
+DOMAIN : DATA SCIENCE
+
+LINKED IN URL : https://www.linkedin.com/in/vignesh15502/
